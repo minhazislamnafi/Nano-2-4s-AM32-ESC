@@ -57,7 +57,8 @@ In this repository, you can find the Schematics, Gerber file, pick and place(if 
 
 ## PCB
 
-<img width="9944" height="4834" alt="ESC bg" src="https://github.com/user-attachments/assets/f9d42548-7b28-4734-8b1b-bf196bfd1d78" />
+<img width="2400" height="1167" alt="ESC bg-Photoroom" src="https://github.com/user-attachments/assets/d0983aa1-ba67-49ca-bbfa-9ce00b8f2a9c" />
+
 
 
 
