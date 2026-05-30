@@ -63,6 +63,10 @@ Use JLCPCB if you're in ASIA or PCBWAY if you're in America. Also, find what man
 If you just want to get Flight controller PCB then use this [GARBER file](https://github.com/minhazislamnafi/Nano-2-4s-AM32-ESC/blob/main/PCB/Gerber_PCB_Nano-2-3s-AM32-ESC_r1.zip),Download it and place order.
 Or if you just want to build your own PCB, then follow this [SCHEMATICS](https://github.com/minhazislamnafi/Nano-2-4s-AM32-ESC/blob/main/PCB/SCH_Nano%202-3s%20AM32%20ESC_2026-05-22.pdf).
 
+## 6 Layers
+<img width="1672" height="2400" alt="6 layer 2-Photoroom" src="https://github.com/user-attachments/assets/5757c659-2350-404c-82b6-b7f7b7d1450e" />
+
+## PCB render
 <img width="2400" height="1167" alt="ESC bg-Photoroom" src="https://github.com/user-attachments/assets/d0983aa1-ba67-49ca-bbfa-9ce00b8f2a9c" />
 
 
