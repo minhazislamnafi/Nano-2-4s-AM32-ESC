@@ -56,7 +56,7 @@ In this repository, you can find the Schematics, Gerber file, pick and place(if 
 * Resistors: 10k, 1k, 10r etc 0402 size [link](https://s.click.aliexpress.com/e/_c4mdiRd3)
 * Capacitors: 10uf, 1uf, 100nf, etc 0402 size [Link](https://s.click.aliexpress.com/e/_c3HHiS9r)
 
-## For detailed part list, price, and values checkout BOM
+## For detailed part list, price, and values checkout [BOM](https://github.com/minhazislamnafi/Nano-2-4s-AM32-ESC/blob/main/BOM.csv)
 
 ## PCB
 Use JLCPCB if you're in ASIA or PCBWAY if you're in America. Also, find what manufacturer is better for you. 
