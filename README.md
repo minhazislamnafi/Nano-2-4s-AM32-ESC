@@ -81,7 +81,7 @@ Or if you just want to build your own PCB, then follow this [SCHEMATICS](https:/
 
 **5. Check with multimeter- Is mcu getting 3.3v or not, if not diagnose by yourself :)**
 
-**5. Flash each mcu with AM32 firmware using Stlink v2 programer ( I will add every step in details, once I have built IRL:)**
+**6. Flash each mcu with AM32 firmware using Stlink v2 programer ( I will add every step in details, once I have built IRL:)**
 
 
 
