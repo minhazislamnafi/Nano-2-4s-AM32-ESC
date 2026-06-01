@@ -77,11 +77,11 @@ Or if you just want to build your own PCB, then follow this [SCHEMATICS](https:/
 
 **3. Solder the SMD components of the PCB by hand ;) Or just order the PCBs with PCBA services, btw it will cost a lot.**
 
-**4. solder 18 AWG wire with xt30 connector.**
+**4. Solder 18 AWG wire with xt30 connector to the power pads.**
 
 **5. Check with multimeter- Is mcu getting 3.3v or not, if not diagnose by yourself :)**
 
-**6. Flash each mcu with AM32 firmware using Stlink v2 programer ( I will add every step in details, once I have built IRL:)**
+**6. Flash each MCU with AM32 firmware using Stlink v2 programmer ( I will add every step in details, once I have built IRL:)**
 
 
 
