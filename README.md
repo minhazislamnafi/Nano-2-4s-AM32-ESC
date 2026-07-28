@@ -50,7 +50,7 @@ In this repository, you can find the Schematics, Gerber file, pick and place(if 
 * MCU: Artery AT32F421G8U7 120MHz QFN-28 (4 pcs) [link](https://s.click.aliexpress.com/e/_c4PMPWk9)
 * Mosfet: AONR36366 QFN-8 package (24 pcs) [link](https://s.click.aliexpress.com/e/_c3cixcnL)
 * Gate driver: DRV8300DRGER QFN-24 (4 pcs) [link](https://s.click.aliexpress.com/e/_c3NqUJhL)
-* 3.3v buck: Mp1584EN soic-8 [link](https://s.click.aliexpress.com/e/_c3PCEJ6N) (recommended to buy a buck module and harvest all the necessary components, rather than buying the inductor, resistor, and diodes separately)
+* 3.3v buck: MP2451DT-LF-Z sop-23-6 [link](https://s.click.aliexpress.com/e/_c3PCEJ6N) (recommended to buy a buck module and harvest all the necessary components, rather than buying the inductor, resistor, and diodes separately)
 * current sense: INA180IDBVR [link](https://s.click.aliexpress.com/e/_c3yf2AqD)
 * Shunt: 2512 3W R001 1MR [Link](https://www.aliexpress.com/item/1005010000851939.html?)
 * Resistors: 10k, 1k, 10r etc 0402 size [link](https://s.click.aliexpress.com/e/_c4mdiRd3)
