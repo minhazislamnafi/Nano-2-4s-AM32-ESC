@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-OHL_v2-green.svg)
 ![Alka motor 32](https://img.shields.io/badge/Firmwire-AM32-red)
-![pcb](https://img.shields.io/badge/ESC-v1.1-blue)
+![pcb](https://img.shields.io/badge/ESC-v1.2-blue)
 ![in Volt](https://img.shields.io/badge/20A-2~4S-cyan)
 
 <img width="4000" height="5657" alt="Zine" src="https://github.com/user-attachments/assets/a674a573-89fa-4904-a458-f21ae3ba9ac5" />
