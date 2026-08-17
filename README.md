@@ -69,6 +69,10 @@ Or if you just want to build your own PCB, then follow this [SCHEMATICS](https:/
 ## PCB render
 <img width="2400" height="1167" alt="ESC bg-Photoroom" src="https://github.com/user-attachments/assets/d0983aa1-ba67-49ca-bbfa-9ce00b8f2a9c" />
 
+## PCB IRL
+<img width="1711" height="1063" alt="image" src="https://github.com/user-attachments/assets/20320151-c981-400a-ade6-f5df0f7a6755" />
+
+
 ## FOLLOW THESE STEPS ##
 
 **1. Spend some money $$ to buy the parts mentioned in [BOM](https://github.com/minhazislamnafi/Nano-2-4s-AM32-ESC/blob/main/BOM.csv).**
