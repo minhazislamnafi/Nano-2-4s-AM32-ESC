@@ -70,7 +70,8 @@ Or if you just want to build your own PCB, then follow this [SCHEMATICS](https:/
 <img width="2400" height="1167" alt="ESC bg-Photoroom" src="https://github.com/user-attachments/assets/d0983aa1-ba67-49ca-bbfa-9ce00b8f2a9c" />
 
 ## PCB IRL
-<img width="1711" height="1063" alt="image" src="https://github.com/user-attachments/assets/20320151-c981-400a-ade6-f5df0f7a6755" />
+<img width="4000" height="2000" alt="top and bottom pic" src="https://github.com/user-attachments/assets/1562d62c-102e-4e65-886b-66c1900b5d62" />
+
 
 
 ## FOLLOW THESE STEPS ##
