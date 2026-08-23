@@ -5,7 +5,7 @@
 ![pcb](https://img.shields.io/badge/ESC-v1.2-blue)
 ![in Volt](https://img.shields.io/badge/20A-2~4S-cyan)
 
-<img width="4000" height="5657" alt="Zine" src="https://github.com/user-attachments/assets/a674a573-89fa-4904-a458-f21ae3ba9ac5" />
+<img width="4000" height="5657" alt="Your paragraph text (1)" src="https://github.com/user-attachments/assets/a989c205-8e55-4efd-a3ba-d919af102e84" />
 
 
 
